@@ -21,7 +21,7 @@
 ## 📌 Projects and Portfolio
 
 - 🌐 [Online Resume in HTML (PT/EN)](https://marceloms17.github.io/portfolio)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/marceloms17)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marcelo-morais-61584146)
 - 💾 [GitHub Repositories](https://github.com/marceloms17?tab=repositories)
 
 ---
