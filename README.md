@@ -21,7 +21,7 @@
 ## 📌 Projetos e Portfólio
 
 - 🌐 [Currículo online em HTML (PT/EN)](https://marceloms17.github.io/portfolio)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/marceloms17)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marcelo-morais-61584146)
 - 💾 [GitHub Repositórios](https://github.com/marceloms17?tab=repositories)
 
 ---
